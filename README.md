@@ -11,3 +11,8 @@
 ### Redes Sociais
 
 [![Linktree](https://img.shields.io/badge/linktree-6A5ACD?&style=for-the-badge&logo=linktree)](https://linktr.ee/bernardokrause)
+
+## GitHub Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoKrause&layout=compact&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![BernardoKrause](https://github-readme-stats.vercel.app/api?username=BernardoKrause&show_icons=true&theme=algolia)
